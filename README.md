@@ -1,23 +1,7 @@
-# [BDReborn V6 (Final Version)](https://telegram.me/BDReborn)
-
-**An advanced and powerful administration bot based on NEW TG-CLI
-
-
-* * *
-
-## Commands
-
-| Use help |
-|:--------|:------------|
-| [#!/]help | just send help in your group and get the commands |
-
-**You can use "#", "!", or "/" to begin all commands
-
-* * *
 
 # Installation
 
-**If use BDHelper put your helper bot Username Without @ in bot.lua, line 22
+**If use TACKPAR770 put your helper bot Username Without @ in bot.lua, line 22
 
 ```sh
 # Let's install the bot.
