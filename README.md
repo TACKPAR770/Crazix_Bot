@@ -27,22 +27,11 @@ OR
 
 cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
-
-* * *
-
-# Support and Development
-
-More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HTjezV4syUSA)
-
+the
+***
 # Special thanks to
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
-
+[@TACKPAR770](https://github.com/TACKPAR770)
 * * *
-
-
-
 ### Our Telegram channel:
 
-[@TACKPAR770]
+@TACKPAR770
